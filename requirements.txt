@@ -1,0 +1,4 @@
+keras==2.7.0
+music21==7.3.3
+numpy==1.22.3
+protobuf==3.20.*
